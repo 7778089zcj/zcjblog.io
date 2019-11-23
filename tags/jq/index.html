@@ -1039,6 +1039,7 @@ setInterval("createtime()",250);
 
     // handle and trigger popup window;
     $('.popup-trigger').click(function(e) {
+      $(this).attr('target','');
       e.stopPropagation();
       if (isfetched === false) {
         searchFunc(path, 'local-search-input', 'local-search-result');
