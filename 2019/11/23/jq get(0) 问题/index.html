@@ -1251,13 +1251,16 @@ setInterval("createtime()",250);
 
     // handle and trigger popup window;
     $('.popup-trigger').click(function(e) {
-      $(this).attr('target','');
+      $('.popup-trigger').attr('target','');
       e.stopPropagation();
       if (isfetched === false) {
+        $('.popup-trigger').attr('target','');
         searchFunc(path, 'local-search-input', 'local-search-result');
       } else {
+        $('.popup-trigger').attr('target','');
         proceedsearch();
       };
+      
     });
 
     $('.popup-btn-close').click(onPopupClose);
@@ -1271,6 +1274,7 @@ setInterval("createtime()",250);
         onPopupClose();
       }
     });
+    $('.popup-trigger').attr('target','');
   </script>
 
 
