@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>jq 节点操作</title>
-    <url>https://github.com/7778089zcj/zcjblog.io.git/2019/11/23/jq-%E8%8A%82%E7%82%B9%E6%93%8D%E4%BD%9C/</url>
+    <url>zcjblog.io.git/2019/11/23/jq-%E8%8A%82%E7%82%B9%E6%93%8D%E4%BD%9C/</url>
     <content><![CDATA[<h2 id="jq-节点操作"><a href="#jq-节点操作" class="headerlink" title="jq 节点操作"></a>jq 节点操作</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> 获取节点</li>
 <li>下表中的所有方法都具有筛选功能，就是都有参数</li>
@@ -60,7 +60,7 @@
   </entry>
   <entry>
     <title>jq 获取元素的尺寸</title>
-    <url>https://github.com/7778089zcj/zcjblog.io.git/2019/11/23/jq%20%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E7%9A%84%E5%B0%BA%E5%AF%B8/</url>
+    <url>zcjblog.io.git/2019/11/23/jq%20%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E7%9A%84%E5%B0%BA%E5%AF%B8/</url>
     <content><![CDATA[<h2 id="jq-获取元素的尺寸"><a href="#jq-获取元素的尺寸" class="headerlink" title="jq 获取元素的尺寸"></a>jq 获取元素的尺寸</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> 获取元素尺寸</li>
 <li>jquery-3.4.1 是可以获取隐藏元素的宽高的，下面的方法都可以获取隐藏元素的宽高</li>
@@ -102,7 +102,7 @@
   </entry>
   <entry>
     <title>jq get(0) 问题</title>
-    <url>https://github.com/7778089zcj/zcjblog.io.git/2019/11/23/jq%20get(0)%20%E9%97%AE%E9%A2%98/</url>
+    <url>zcjblog.io.git/2019/11/23/jq%20get(0)%20%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<h2 id="jq-get-0-问题"><a href="#jq-get-0-问题" class="headerlink" title="jq get(0) 问题"></a>jq get(0) 问题</h2><ul>
 <li><input checked="" disabled="" type="checkbox"> jq get(0)问题</li>
 <li>注：这里所说的get不是ajax里的get。</li>
